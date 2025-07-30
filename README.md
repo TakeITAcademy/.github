@@ -1,0 +1,2 @@
+# TakeIT Academy
+TakeIT Academy is an online education provider founded by three university students with a passion for modern, accessible learning. We deliver high-quality remote lessons in programming, IT, English, math, and history. Our mission is to equip students with the knowledge and skills they need to succeed in both academic and professional life. With a focus on clarity, support, and real-world application, we're committed to making education more effective for everyone.
